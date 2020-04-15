@@ -20,3 +20,6 @@ to be continued
 
 
 ## Homwork 3
+- Basic concepts about associate rules using example of market basket transactions
+- Apriori algorithm
+- Pattern evaluation
