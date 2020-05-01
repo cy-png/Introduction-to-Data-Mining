@@ -23,3 +23,8 @@ to be continued
 - Basic concepts about associate rules using example of market basket transactions
 - Apriori algorithm
 - Pattern evaluation
+
+
+## Final Project
+- Introduction to paper 'Transfer Feature Learning with Joint Distribution Adaptation'
+- Code Implementation
