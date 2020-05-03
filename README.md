@@ -10,6 +10,7 @@ to be continued
 
 
 ## Homwork 1
+[HW1-Clustering Package Design and Implementing](https://github.com/cy-png/Introduction-to-Data-Mining/tree/master/HW1-Clustering%20Package%20Design%20and%20Implementing)
 - Discussion clustering as well as its application and adaption
 - Caculate Entropy, Purity, F-measure, Silhouette Coefficient, Correlation, etc
 - Write own python packages for cluster validity, including external measurements(accuracy, Normalized Mutual Information(NMI), Normalized Rand Index(NRI)) and internal measurements(Silhouette Index, Clustering Validation Index based on Nearest Neighbors (CVNN))
