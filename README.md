@@ -25,6 +25,7 @@ to be continued
 
 
 ## Homwork 3
+[HW3-Association Rule Problems](https://github.com/cy-png/Introduction-to-Data-Mining/tree/master/HW3-Association%20Rule%20Problems)
 - Basic concepts about associate rules using example of market basket transactions
 - Apriori algorithm
 - Pattern evaluation
