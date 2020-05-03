@@ -1,7 +1,9 @@
 # Introduction to Data Mining
 to be continued
 
+
 ## Homework 0
+[HW0-Backgroud for Data Mining](https://github.com/cy-png/Introduction-to-Data-Mining/tree/master/HW0-Backgroud%20for%20Data%20Mining)
 - Basic knowledge about data mining
 - Basic coding skills 
 - Statistics review
@@ -16,7 +18,9 @@ to be continued
 - Write own python packages for Spectral Clustering algorithm and Kernel K-means algorithm, and run both algorithms on the eye.csv dataset.
 
 
+
 ## Homwork 2
+
 
 
 ## Homwork 3
