@@ -23,6 +23,8 @@ to be continued
 ## Homwork 2
 [HW2-Clustering and Classification with Classic Figure Datasets, Kaggle Projects for Speech Recognition](https://github.com/cy-png/Introduction-to-Data-Mining/tree/master/HW2-Clustering%20and%20Classification%20with%20Classic%20Figure%20Datasets%2C%20Kaggle%20Projects%20for%20Speech%20Recognition)
 - Compared sklearn and our own k-means cluster package with MNIST, CIFAR-10, LFW dataset in terms of objective function value, accuracy, and execution time.
+- Applied linear classifier (1-layer NN) (Test error rate: 12%), K-nearest- neighbors (Test error rate: 5%), SVM + Gaussian Kernel (Test error rate: 1.4%) using MNIST dataset using sklearn package.
+- Kaggle project (https://www.kaggle.com/chrisfilo/urbansound8k)
 
 ## Homwork 3
 [HW3-Association Rule Problems](https://github.com/cy-png/Introduction-to-Data-Mining/tree/master/HW3-Association%20Rule%20Problems)
